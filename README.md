@@ -12,8 +12,8 @@ remembers your choices, and it is stripped on upload.
 
 ## Install
 
-- **VRChat Creator Companion (recommended):** open https://luna-gelmini.github.io/vpm/ and press
-  **Add to VCC** (or add `https://luna-gelmini.github.io/vpm/index.json` under Settings →
+- **VRChat Creator Companion (recommended):** open https://vpm.ladyluh.dev/ and press
+  **Add to VCC** (or add `https://vpm.ladyluh.dev/index.json` under Settings →
   Packages), then add **questkit** to your project. VCC keeps it updated.
 - **.unitypackage:** download `QuestKit-<version>.unitypackage` from
   [Releases](https://github.com/luna-gelmini/QuestKit/releases) and drag it into Unity.
