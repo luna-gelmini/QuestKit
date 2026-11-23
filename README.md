@@ -1,5 +1,7 @@
 # questkit
 
+![QuestKit](Documentation~/header.png)
+
 A Quest Planner for VRChat avatars. It looks at a PC avatar, works out the best Quest version of
 each part, shows you why, and lets you change anything before it builds a separate Quest copy.
 
